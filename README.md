@@ -10,8 +10,6 @@ The model will find its way through our documents, databases and other sources u
 ### Note
 We will use different sources, and information that the model has not been trained with. The information needs to be retrieved for the model to use it. We will present this information in the context window.
 
-I might or might not use Streamlit to examplify the results
-
 ## Usage
 **Alternative 1 - Terminal:** 
 ```bash
