@@ -1,0 +1,19 @@
+# Ignore typical files
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+__pycache__/
+*.vscode
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Specific files to ignore
+*city_temperature.csv
+*my_database.db
+*chroma_db
