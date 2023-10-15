@@ -31,7 +31,8 @@ For the embedding I decided to use [BAAI/bge-base-en-v1.5 embeddings](!https://h
 - **Wikipedia** for information about the countries : Last resource if we dont have enough info. We use the Wiki API
 
 ## LLM
-For simplicity GPT-3.5 is used. But the project should be generalizable to any model. You will need to adjust your pr
+For simplicity GPT-3.5 is used. But the project should be generalizable to any model. You will need to adjust your prompts and arguments
+All used prompts for this project are stored in: [prompts](./prompts.py)
 
 ## Examples
 Terminal  
@@ -41,7 +42,7 @@ Terminal
 Streamlit App  
 ![Streamlit](./assets/streamlit.PNG)
 
-ompts and arguments to call the models tho.
+
 
 ## Notebooks
 There is a test notebook that contains a follow through on tests for the different decisions of the LLM
