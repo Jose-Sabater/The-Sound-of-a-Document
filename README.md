@@ -45,10 +45,11 @@ Streamlit App
 
 
 ## Notebooks
-There is a test notebook that contains a follow through on tests for the different decisions of the LLM
+There is a [test notebook](./nb/test_sources.ipynb) that contains a follow through on tests for the different decisions of the LLM
 
 ## Aknowledgements
-Temperature Dataset: https://www.kaggle.com/datasets/subhamjain/temperature-of-all-countries-19952020 
+Temperature Dataset: https://www.kaggle.com/datasets/subhamjain/temperature-of-all-countries-19952020  
+Embeddings using [Huggingface](https://huggingface.co/BAAI/bge-base-en-v1.5) and [SentenceTransformers](https://www.sbert.net/)
 
 
 ## License
